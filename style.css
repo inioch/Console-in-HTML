@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-break: 1.2rem;
+    font-size: 1rem;
+}
+body{
+    margin: 15px;
+    background-color: black;
+    color: whitesmoke;
+    }
+input{
+    border: none;
+    width: 100%;
+    background-color: transparent;
+    color: whitesmoke;
+    outline: none;
+   
+}
+
